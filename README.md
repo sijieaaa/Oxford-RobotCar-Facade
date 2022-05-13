@@ -1,6 +1,6 @@
 # Oxford RobotCar Facade
 
-[TO BE UPDATE](https://openreview.net/forum?id=9CPc4EIr2t1).
+[Building Facade Parsing R-CNN](http://arxiv.org/abs/2205.05912).
 
 ## Configuration
 
@@ -24,7 +24,19 @@
 
 ## Citation
 
- If you use this dataset in your research, please cite: 
+If you use this dataset in your research, please cite: 
+```
+@misc{https://doi.org/10.48550/arxiv.2205.05912,
+  doi = {10.48550/ARXIV.2205.05912},
+  url = {https://arxiv.org/abs/2205.05912},
+  author = {Wang, Sijie and Kang, Qiyu and She, Rui and Tay, Wee Peng and Navarro, Diego Navarro and Hartmannsgruber, Andreas},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Building Facade Parsing R-CNN},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
 
 ## Download
 
