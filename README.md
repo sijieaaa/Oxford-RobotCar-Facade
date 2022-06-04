@@ -4,7 +4,7 @@
 
 ## Configuration
 
-- This dataset is created based on the Oxford RobotCar Dataset (https://robotcar-dataset.robots.ox.ac.uk/)  and the Oxford Radar RobotCar Dataset (https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)
+- This dataset is created based on the Oxford RobotCar Dataset (https://robotcar-dataset.robots.ox.ac.uk/)  and the Oxford Radar RobotCar Dataset (https://oxford-robotics-institute.github.io/radar-robotcar-dataset/). Specifically, it comes from 2019-01-18-14-14-42 Oxford Radar RobotCar Dataset.
 
 - The *train* split contains 400 images, while the *test* split contains 100 images.
 
